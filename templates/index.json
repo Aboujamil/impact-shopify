@@ -164,12 +164,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_ccfKGz": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection_kLzQpn",
         "collection_DaixCX",
-        "collection_M3iXJQ"
+        "collection_M3iXJQ",
+        "collection_ccfKGz"
       ],
       "name": "Collection list",
       "settings": {
@@ -188,6 +203,94 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "blog_posts_zhECPp": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_aeTAAQ": {
+          "type": "blog",
+          "settings": {
+            "blog": "",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_aeTAAQ"
+      ],
+      "disabled": true,
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "blog_posts_MnCyit": {
+      "type": "blog-posts",
+      "blocks": {
+        "article_Gx4qPJ": {
+          "type": "article",
+          "settings": {
+            "article": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "article_Gx4qPJ"
+      ],
+      "name": "Featured blog post",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": true,
+        "show_comments_count": true,
+        "show_category": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "newsletter_wAPWbE": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "Inscrivez-vous à la Newsletter et recevez -10%",
+        "content": "<p>Soyez informés sur les derniers services, offres, et réductions à venir.</p>",
+        "button_text": "S'abonner",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "slideshow": {
@@ -850,6 +953,9 @@
     "video_teB4qV",
     "text_with_icons_8KMX9g",
     "collection_list_KjKqFH",
+    "blog_posts_zhECPp",
+    "blog_posts_MnCyit",
+    "newsletter_wAPWbE",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
