@@ -719,8 +719,8 @@
       ],
       "settings": {
         "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
+        "images_layout": "collage",
+        "collage_images_alignment": "top",
         "background": "",
         "background_gradient": "",
         "text_color": "",
