@@ -32,7 +32,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/0_Blue_Sky_Moving_Clouds_3840x2160.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
