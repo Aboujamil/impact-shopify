@@ -33,10 +33,11 @@
       "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/0_Blue_Sky_Moving_Clouds_3840x2160.mp4",
+        "video": "shopify://files/videos/Design sans titre (1).mp4",
+        "mobile_video": "shopify://files/videos/Design sans titre.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -94,6 +95,7 @@
         "slide-1",
         "slide-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
