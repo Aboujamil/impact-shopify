@@ -14,10 +14,12 @@
       "blocks": {
         "play_dUjNWa": {
           "type": "play",
+          "disabled": true,
           "settings": {}
         },
         "heading_7nqMxJ": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Video",
             "heading_tag": "h1"
