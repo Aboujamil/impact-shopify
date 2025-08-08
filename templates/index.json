@@ -12,23 +12,35 @@
     "video_teB4qV": {
       "type": "video",
       "blocks": {
-        "play_dUjNWa": {
-          "type": "play",
-          "disabled": true,
-          "settings": {}
-        },
         "heading_7nqMxJ": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
+            "text": "EXPERT EN SOURCING ET BUSINESS À DUBAI ET EN CHINE",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_EwLn6H": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Basé à Dubaï et en Chine, nous vous proposons des services de sourcing, transport, vente d’e-books fournisseurs, création de business en ligne, expatriation aux Émirats, formations en optimisation fiscale (LLC USA & Hong Kong). Nous vous proposant également des services d’accompagnement en Chine. Tout pour lancer ou développer votre activité avec Dubaï et la Chine.</p>"
+          }
+        },
+        "button_TB4GXy": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "En savoir plus",
+            "url": "",
+            "background": "",
+            "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "play_dUjNWa",
-        "heading_7nqMxJ"
+        "heading_7nqMxJ",
+        "richtext_EwLn6H",
+        "button_TB4GXy"
       ],
       "name": "Video",
       "settings": {
@@ -42,6 +54,68 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "text_with_icons_8KMX9g": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_HKwD3X": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Produits Authentiques des Émirats et Chine",
+            "content": "<p>Nous sélectionnons pour vous des fournisseurs fiables et des produits haut de gamme à Dubaï et en Chine : parfums, abayas, qamis, produits éléctronique, textile, meuble et bien plus..</p>"
+          }
+        },
+        "item_hD7JpX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Sourcing & Livraison Internationale",
+            "content": "<p>Nous gérons tout : sourcing, récupération de la marchandise et expédition sécurisée vers le monde entier.</p>"
+          }
+        },
+        "item_R4KWWh": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/business_setup_in_dubai.webp",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Business Clé en Main & Expatriation",
+            "content": "<p>Création de boutique en ligne, accès aux E-Books fournisseurs, accompagnement stratégique, expatriation à Dubaï et formations en fiscalité offshore.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HKwD3X",
+        "item_hD7JpX",
+        "item_R4KWWh"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "slideshow": {
@@ -805,6 +879,7 @@
   },
   "order": [
     "video_teB4qV",
+    "text_with_icons_8KMX9g",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
