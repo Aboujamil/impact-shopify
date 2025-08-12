@@ -124,14 +124,18 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "business-boost-ton-business-cle-en-main",
+          "reserve-ton-appel",
+          "usa-offshore-creer-ta-societe-aux-etats-unis"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "Produits similaires",
         "content": "",
         "background": "",
         "background_gradient": "",
