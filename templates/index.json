@@ -15,32 +15,13 @@
         "heading_7nqMxJ": {
           "type": "heading",
           "settings": {
-            "text": "EXPERT EN SOURCING ET BUSINESS À DUBAI ET EN CHINE",
+            "text": "",
             "heading_tag": "h2"
-          }
-        },
-        "richtext_EwLn6H": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Basé à Dubaï et en Chine, nous vous proposons des services de sourcing, transport, vente d’e-books fournisseurs, création de business en ligne, expatriation aux Émirats, formations en optimisation fiscale (LLC USA & Hong Kong). Nous vous proposant également des services d’accompagnement en Chine. Tout pour lancer ou développer votre activité avec Dubaï et la Chine.</p>"
-          }
-        },
-        "button_TB4GXy": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "En savoir plus",
-            "url": "",
-            "background": "",
-            "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "heading_7nqMxJ",
-        "richtext_EwLn6H",
-        "button_TB4GXy"
+        "heading_7nqMxJ"
       ],
       "name": "Video",
       "settings": {
@@ -54,6 +35,66 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "rich_text_fbKEpk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ubww6Q": {
+          "type": "heading",
+          "settings": {
+            "text": "EXPERT EN SOURCING",
+            "heading_tag": "h6",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "heading_nqFktz": {
+          "type": "heading",
+          "settings": {
+            "text": "&",
+            "heading_tag": "h6",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "heading_DJpGdL": {
+          "type": "heading",
+          "settings": {
+            "text": "BUSINESS À DUBAI ET EN CHINE",
+            "heading_tag": "h6",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_Hc9Mhh": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "richtext_X6x67e": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Basé à Dubaï et en Chine, nous vous proposons des services de sourcing, transport, vente d’e-books fournisseurs, création de business en ligne, expatriation aux Émirats, formations en optimisation fiscale (LLC USA & Hong Kong). Nous vous proposant également des services d’accompagnement en Chine. Tout pour lancer ou développer votre activité avec Dubaï et la Chine.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ubww6Q",
+        "heading_nqFktz",
+        "heading_DJpGdL",
+        "subheading_Hc9Mhh",
+        "richtext_X6x67e"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "text_with_icons_8KMX9g": {
@@ -281,6 +322,7 @@
   },
   "order": [
     "video_teB4qV",
+    "rich_text_fbKEpk",
     "text_with_icons_8KMX9g",
     "collection_list_KjKqFH",
     "blog_posts_zhECPp",
