@@ -238,6 +238,7 @@
       "block_order": [
         "article_Gx4qPJ"
       ],
+      "disabled": true,
       "name": "Featured blog post",
       "settings": {
         "full_width": true,
