@@ -11,33 +11,6 @@
   "type": "header",
   "name": "Header group",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "message"
-      ],
-      "disabled": true,
-      "settings": {
-        "enable_sticky": false,
-        "autoplay": false,
-        "cycle_speed": 6,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -62,10 +35,68 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "Il est temps de passer à l’action et créer la vie que vous méritez",
+            "url": ""
+          }
+        },
+        "message_UNgjzC": {
+          "type": "message",
+          "settings": {
+            "text": "Transformez vos rêves en réalité, commencez à entreprendre aujourd’hui",
+            "url": ""
+          }
+        },
+        "message_ex36z4": {
+          "type": "message",
+          "settings": {
+            "text": "Votre ambition, notre mission : vous guider vers votre réussite.",
+            "url": ""
+          }
+        },
+        "message_HPYi3f": {
+          "type": "message",
+          "settings": {
+            "text": "Le meilleur moment pour entreprendre, c’était hier. Le deuxième, c’est maintenant",
+            "url": ""
+          }
+        },
+        "message_qY4d4L": {
+          "type": "message",
+          "settings": {
+            "text": "Changez votre vie, pas dans dix ans… dès maintenant",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_UNgjzC",
+        "message_ex36z4",
+        "message_HPYi3f",
+        "message_qY4d4L"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "autoplay": false,
+        "cycle_speed": 6,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
