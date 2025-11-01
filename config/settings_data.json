@@ -40,10 +40,12 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "11793926298747377848": {
-        "type": "shopify://apps/yoast-seo/blocks/metatags/7c777011-bc88-4743-a24e-64336e1e5b46",
+      "8912919057760678768": {
+        "type": "shopify://apps/easify-box-builder/blocks/app-embed-block/5e4620dd-6bb8-4776-ada5-5f18c69faedd",
         "disabled": false,
-        "settings": {}
+        "settings": {
+          "settings_js_develop_mode": false
+        }
       }
     }
   },
