@@ -15,14 +15,14 @@
         "image_BtqAR8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image.webp",
-            "mobile_image": "shopify://shop_images/image.webp",
+            "image": "shopify://shop_images/photo_1_wildlab_1.webp",
+            "mobile_image": "shopify://shop_images/photo_1_wildlab_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
-            "heading_tag": "h0",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -48,7 +48,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
