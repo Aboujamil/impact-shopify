@@ -9,259 +9,9 @@
  */
 {
   "sections": {
-    "video_teB4qV": {
-      "type": "video",
-      "blocks": {
-        "heading_7nqMxJ": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "text": "Votre ambition, notre mission : vous guider vers votre réussite",
-            "heading_tag": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "heading_7nqMxJ"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/Design sans titre (1).mp4",
-        "mobile_video": "shopify://files/videos/Design sans titre.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "rich_text_fbKEpk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Ubww6Q": {
-          "type": "heading",
-          "settings": {
-            "text": "EXPERT EN SOURCING",
-            "heading_tag": "h6",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "heading_nqFktz": {
-          "type": "heading",
-          "settings": {
-            "text": "&",
-            "heading_tag": "h6",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "heading_DJpGdL": {
-          "type": "heading",
-          "settings": {
-            "text": "BUSINESS À DUBAI ET EN CHINE",
-            "heading_tag": "h6",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "subheading_Hc9Mhh": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "richtext_X6x67e": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Basé à Dubaï et en Chine, nous vous proposons des services de sourcing, transport, vente d’e-books fournisseurs, création de business en ligne, expatriation aux Émirats, formations en optimisation fiscale (LLC USA & Hong Kong). Nous vous proposant également des services d’accompagnement en Chine. Tout pour lancer ou développer votre activité avec Dubaï et la Chine.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ubww6Q",
-        "heading_nqFktz",
-        "heading_DJpGdL",
-        "subheading_Hc9Mhh",
-        "richtext_X6x67e"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "text_with_icons_8KMX9g": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_HKwD3X": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/business_setup_in_dubai.webp",
-            "mobile_icon_width": 96,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Produits Authentiques des Émirats et Chine",
-            "content": "<p>Nous sélectionnons pour vous des fournisseurs fiables et des produits haut de gamme à Dubaï et en Chine : parfums, abayas, qamis, produits éléctronique, textile, meuble et bien plus..</p>"
-          }
-        },
-        "item_hD7JpX": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/sourcing_agent_chinav.webp",
-            "mobile_icon_width": 96,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Sourcing & Livraison Internationale",
-            "content": "<p>Nous gérons tout : sourcing, récupération de la marchandise et expédition sécurisée vers le monde entier.</p>"
-          }
-        },
-        "item_R4KWWh": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/dubai_sourcing_services.webp",
-            "mobile_icon_width": 96,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Business Clé en Main & Expatriation",
-            "content": "<p>Création de boutique en ligne, accès aux E-Books fournisseurs, accompagnement stratégique, expatriation à Dubaï et formations en fiscalité offshore.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_HKwD3X",
-        "item_hD7JpX",
-        "item_R4KWWh"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "featured_collection_m3jxi9": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "frontpage",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Nos Produits & Services",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "blog_posts_zhECPp": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog_aeTAAQ": {
-          "type": "blog",
-          "settings": {
-            "blog": "",
-            "posts_count": 3,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_aeTAAQ"
-      ],
-      "disabled": true,
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": true,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "Les derniers articles de blog",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "blog_posts_MnCyit": {
-      "type": "blog-posts",
-      "blocks": {
-        "article_Gx4qPJ": {
-          "type": "article",
-          "settings": {
-            "article": "",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "article_Gx4qPJ"
-      ],
-      "disabled": true,
-      "name": "Featured blog post",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": true,
-        "show_author": true,
-        "show_comments_count": true,
-        "show_category": true,
-        "subheading": "",
-        "title": "Les derniers articles de blog",
-        "content": "<p>Les articles de blog vous permettant de resté informé de toutes les actualités à propos des Émirats Arabes Unis et de la chine, du Business dans le monde, de l’optimisation fiscale.<br/><br/></p>",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "newsletter_wAPWbE": {
       "type": "newsletter",
+      "disabled": true,
       "name": "Newsletter",
       "settings": {
         "full_width": true,
@@ -276,15 +26,107 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "custom_liquid_WMt3n4": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-hero{\n  background:linear-gradient(165deg,#0d3b22 0%,#1e5631 45%,#1a3a6e 100%);\n  padding:24px 20px 40px;\n  text-align:center;\n  display:flex;\n  flex-direction:column;\n  align-items:center\n}\n.wl-hero-content{\n  max-width:620px;\n  margin:0 auto;\n  width:100%\n}\n.wl-hero h1{\n  font-size:clamp(30px,6.5vw,58px);\n  font-weight:900;\n  line-height:1.07;\n  color:white;\n  margin-bottom:24px;\n  letter-spacing:-.025em;\n  font-family:'Nunito',sans-serif\n}\n.wl-hero h1 .glow{\n  color:#f5a623;\n  display:block;\n  text-shadow:0 0 48px rgba(245,166,35,.45)\n}\n.wl-ugc{\n  background:rgba(255,255,255,.1);\n  border:1px solid rgba(255,255,255,.18);\n  border-radius:16px;\n  padding:16px 20px;\n  max-width:440px;\n  margin:0 auto;\n  text-align:left\n}\n.wl-ugc-s{\n  color:#fbbf24;\n  font-size:13px;\n  letter-spacing:2px;\n  margin-bottom:8px\n}\n.wl-ugc-t{\n  font-size:14px;\n  color:rgba(255,255,255,.9);\n  line-height:1.65;\n  font-style:italic;\n  margin-bottom:8px;\n  font-family:'Nunito',sans-serif\n}\n.wl-ugc-by{\n  font-size:12px;\n  color:rgba(255,255,255,.45);\n  font-family:'Nunito',sans-serif\n}\n</style>\n\n<div class=\"wl-hero\">\n  <div class=\"wl-hero-content\">\n    <h1>Il va voir des choses<br>qu'il n'oubliera<br><span class=\"glow\">jamais.</span></h1>\n    <div class=\"wl-ugc\">\n      <div class=\"wl-ugc-s\">★★★★★</div>\n      <div class=\"wl-ugc-t\">\"Le matin il observait des insectes avec le microscope, l'après-midi il cherchait des oiseaux avec le télescope. Le kit 2 en 1 a occupé tout son week-end.\"</div>\n      <div class=\"wl-ugc-by\">Isabelle D., maman de Théo 8 ans · Nantes</div>\n    </div>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_eyTRUX": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-psycho9{background:#1e5631 !important;padding:40px 16px;text-align:center}\n.wl-psycho9-inner{max-width:760px;margin:0 auto}\n.wl-tag9{font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#86efac;margin-bottom:10px;display:block;font-family:'Nunito',sans-serif}\n.wl-h2-9{font-size:clamp(24px,5vw,40px);font-weight:900;line-height:1.1;margin-bottom:14px;color:#ffffff !important;font-family:'Nunito',sans-serif}\n.wl-h2-9 em{color:#f5a623;font-style:normal}\n.wl-bigq9{font-size:clamp(15px,3vw,20px);font-weight:800;color:white !important;max-width:580px;margin:0 auto 28px;font-style:italic;line-height:1.45;font-family:'Nunito',sans-serif}\n.wl-bigq9 span{color:#f5a623}\n\n/* CARROUSEL */\n.wl-pc9-outer{overflow:hidden;border-radius:14px}\n.wl-pc9-track{\n  display:flex;\n  overflow-x:auto;\n  scroll-snap-type:x mandatory;\n  -webkit-overflow-scrolling:touch;\n  scrollbar-width:none;\n  -ms-overflow-style:none\n}\n.wl-pc9-track::-webkit-scrollbar{display:none}\n.wl-pc9{\n  flex:0 0 100%;\n  scroll-snap-align:start;\n  background:rgba(255,255,255,.12) !important;\n  border:1px solid rgba(255,255,255,.2);\n  border-radius:14px;\n  padding:28px 24px;\n  text-align:left;\n  box-sizing:border-box\n}\n.wl-pc9-icon{font-size:32px;margin-bottom:12px;display:block;line-height:1}\n.wl-pc9 h4{font-size:20px !important;font-weight:900 !important;color:white !important;margin-bottom:10px;font-family:'Nunito',sans-serif;line-height:1.2}\n.wl-pc9 p{font-size:14px !important;font-weight:700 !important;color:rgba(255,255,255,.88) !important;line-height:1.65 !important;font-family:'Nunito',sans-serif}\n\n/* DOTS */\n.wl-pc9-footer{display:flex;flex-direction:column;align-items:center;gap:6px;margin:12px 0 4px}\n.wl-pc9-hint{font-size:12px;color:rgba(255,255,255,.4);font-family:'Nunito',sans-serif}\n.wl-pc9-dots{display:flex;gap:7px}\n.wl-pd{width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.25);border:none;padding:0;cursor:pointer;transition:all .25s}\n.wl-pd.on{background:#f5a623;width:22px;border-radius:4px}\n\n/* DESKTOP — grille 2×2 */\n@media(min-width:641px){\n  .wl-psycho9{padding:56px 20px}\n  .wl-pc9-outer{overflow:visible;border-radius:0}\n  .wl-pc9-track{\n    display:grid;\n    grid-template-columns:repeat(2,1fr);\n    overflow:visible;\n    gap:14px\n  }\n  .wl-pc9{flex:none}\n  .wl-pc9-footer{display:none}\n}\n</style>\n\n<div class=\"wl-psycho9\">\n  <div class=\"wl-psycho9-inner\">\n    <span class=\"wl-tag9\">Ce que vous offrez vraiment</span>\n    <h2 class=\"wl-h2-9\">Vous n'achetez pas un jouet.<br>Vous lui offrez un programme d'exploration complet et <em>une façon de voir le monde.</em></h2>\n    <div class=\"wl-bigq9\">\"La fenêtre de curiosité entre 6 et 12 ans ne se rouvre pas. Ce que vous lui montrez maintenant <span>devient qui il sera.</span>\"</div>\n\n    <div class=\"wl-pc9-outer\">\n      <div class=\"wl-pc9-track\" id=\"wlpc9\">\n\n        <div class=\"wl-pc9\">\n          <span class=\"wl-pc9-icon\">🧠</span>\n          <h4>Son cerveau se construit en explorant</h4>\n          <p>La découverte active libère de la dopamine. Il se souviendra de ces moments toute sa vie — pas des jeux vidéo.</p>\n        </div>\n\n        <div class=\"wl-pc9\">\n          <span class=\"wl-pc9-icon\">💚</span>\n          <h4>Il redécouvre la vraie nature</h4>\n          <p>Une vraie aile d'insecte sur son écran. Cette expérience directe change sa façon de regarder le monde pour toujours.</p>\n        </div>\n\n        <div class=\"wl-pc9\">\n          <span class=\"wl-pc9-icon\">💬</span>\n          <h4>Il rentre en courant te raconter</h4>\n          <p>Il apprend quelque chose de vrai sur le monde et veut le partager avec toi. Ce moment-là, tu ne l'oublieras pas.</p>\n        </div>\n\n        <div class=\"wl-pc9\">\n          <span class=\"wl-pc9-icon\">🎁</span>\n          <h4>Dans 10 ans, il s'en souviendra</h4>\n          <p>Ce kit devient \"le Wildlab que j'avais enfant\". Parce que c'est une expérience, pas un objet qui finit dans un tiroir.</p>\n        </div>\n\n      </div>\n    </div>\n\n    <div class=\"wl-pc9-footer\">\n      <div class=\"wl-pc9-hint\">← Glisser →</div>\n      <div class=\"wl-pc9-dots\" id=\"wlpd9\">\n        <button class=\"wl-pd on\" onclick=\"wlpc9go(0)\"></button>\n        <button class=\"wl-pd\" onclick=\"wlpc9go(1)\"></button>\n        <button class=\"wl-pd\" onclick=\"wlpc9go(2)\"></button>\n        <button class=\"wl-pd\" onclick=\"wlpc9go(3)\"></button>\n      </div>\n    </div>\n\n  </div>\n</div>\n\n<script>\nfunction wlpc9go(i){\n  var c=document.getElementById('wlpc9');\n  if(!c)return;\n  c.scrollTo({left:i*c.offsetWidth,behavior:'smooth'});\n}\n(function(){\n  var c=document.getElementById('wlpc9');\n  var dots=document.querySelectorAll('#wlpd9 .wl-pd');\n  if(!c)return;\n  c.addEventListener('scroll',function(){\n    var i=Math.round(c.scrollLeft/c.offsetWidth);\n    dots.forEach(function(d,j){d.classList.toggle('on',j===i)});\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_zcQ6Qj": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-avis5{background:#fdf6ec;padding:32px 16px}\n.wl-avis5-inner{max-width:760px;margin:0 auto}\n.wl-tag-warm{font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#e8743c;margin-bottom:8px;display:block;font-family:'Nunito',sans-serif}\n.wl-h2{font-size:clamp(22px,5vw,40px);font-weight:900 !important;line-height:1.1;margin-bottom:20px;color:#1a1a1a;font-family:'Nunito',sans-serif}\n.wl-h2 em{color:#1e5631;font-style:normal}\n.wl-av-outer{overflow:hidden;border-radius:14px}\n.wl-av-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;-ms-overflow-style:none}\n.wl-av-track::-webkit-scrollbar{display:none}\n.wl-av-card{flex:0 0 100%;scroll-snap-align:start;background:#ffffff;border-radius:14px;border:1.5px solid #e8e4dc;padding:22px;box-sizing:border-box;position:relative}\n.wl-av-card.featured{border-color:#86efac;background:#e8f8ee}\n.wl-av-card.featured::before{content:'❤ Coup de cœur';position:absolute;top:0;left:0;background:#2d8a47;color:white;font-size:10px;font-weight:800;padding:3px 10px;border-radius:14px 0 10px 0;font-family:'Nunito',sans-serif}\n.wl-av-img-wrap{margin:-22px -22px 16px -22px;height:260px;overflow:hidden;border-radius:12px 12px 0 0}\n.wl-av-photo{width:100%;height:100%;object-fit:cover;object-position:center center;display:block}\n.wl-av-stars{color:#fbbf24;font-size:16px;margin-bottom:10px}\n.wl-av-card.featured .wl-av-stars{margin-top:16px}\n.wl-av-text{font-size:14px;line-height:1.65;color:#1a1a1a;font-style:italic;margin-bottom:12px;font-family:'Nunito',sans-serif}\n.wl-av-by{font-size:13px;font-weight:900 !important;color:#1a1a1a;font-family:'Nunito',sans-serif}\n.wl-av-kid{font-size:12px;color:#2d8a47;font-weight:700;font-family:'Nunito',sans-serif;margin-bottom:10px}\n.wl-av-moment{background:rgba(45,138,71,.08);border-radius:8px;padding:10px 12px;font-size:13px;color:#1e5631;font-weight:700;display:flex;align-items:flex-start;gap:6px;line-height:1.5;font-family:'Nunito',sans-serif}\n.wl-av-moment::before{content:'💬';font-size:12px;flex-shrink:0;margin-top:1px}\n.wl-av-footer{display:flex;flex-direction:column;align-items:center;gap:6px;margin:10px 0 4px}\n.wl-swipe{font-size:12px;color:#9ca3af;font-family:'Nunito',sans-serif}\n.wl-av-dots{display:flex;gap:7px}\n.wl-avd{width:8px;height:8px;border-radius:50%;background:#e8e4dc;border:none;padding:0;cursor:pointer;transition:all .25s}\n.wl-avd.on{background:#e8743c;width:22px;border-radius:4px}\n@media(min-width:641px){\n  .wl-avis5{padding:56px 20px}\n  .wl-av-outer{overflow:visible;border-radius:0}\n  .wl-av-track{display:grid;grid-template-columns:repeat(4,1fr);overflow:visible;gap:14px}\n  .wl-av-card{flex:none}\n  .wl-av-footer{display:none}\n  .wl-av-img-wrap{height:180px}\n}\n</style>\n\n<div class=\"wl-avis5\">\n  <div class=\"wl-avis5-inner\">\n    <span class=\"wl-tag-warm\">Ils l'ont offert — voilà ce qui s'est passé</span>\n    <h2 class=\"wl-h2\">Des enfants qui ont<br><em>raconté à leurs parents.</em></h2>\n    <div class=\"wl-av-outer\">\n      <div class=\"wl-av-track\" id=\"wlav\">\n\n        <div class=\"wl-av-card featured\">\n          <div class=\"wl-av-img-wrap\">\n            <img class=\"wl-av-photo\" src=\"https://cdn.shopify.com/s/files/1/0938/5417/1461/files/Design_sans_titre_61.png?v=1776347323\" alt=\"Théo explore avec Wildlab\">\n          </div>\n          <div class=\"wl-av-stars\">★★★★★</div>\n          <div class=\"wl-av-text\">\"Mon fils de 9 ans a passé tout le dimanche dehors à observer des insectes. Le soir, il a refusé d'aller se coucher parce qu'il voulait voir la lune avec le télescope. J'ai laissé. C'était le plus beau soir de l'été.\"</div>\n          <div class=\"wl-av-by\">Isabelle T.</div>\n          <div class=\"wl-av-kid\">Maman de Théo, 9 ans · Lyon</div>\n          <div class=\"wl-av-moment\">Il a dit \"j'ai photographié les cratères de la lune, maman.\"</div>\n        </div>\n\n        <div class=\"wl-av-card\">\n          <div class=\"wl-av-img-wrap\">\n            <img class=\"wl-av-photo\" src=\"https://cdn.shopify.com/s/files/1/0938/5417/1461/files/3.png?v=1776348661\" alt=\"Lucas avec le kit Wildlab\">\n          </div>\n          <div class=\"wl-av-stars\">★★★★★</div>\n          <div class=\"wl-av-text\">\"J'avais peur que ce soit fragile ou décevant. Pas du tout. En 20 minutes il avait fait 3 missions. Les 100 missions c'est vraiment ce qui fait que ça dure.\"</div>\n          <div class=\"wl-av-by\">Marie-Claire D.</div>\n          <div class=\"wl-av-kid\">Maman de Lucas, 8 ans · Nantes</div>\n          <div class=\"wl-av-moment\">Il savait quelque chose que moi je ne savais pas.</div>\n        </div>\n\n        <div class=\"wl-av-card\">\n          <div class=\"wl-av-img-wrap\">\n            <img class=\"wl-av-photo\" src=\"https://cdn.shopify.com/s/files/1/0938/5417/1461/files/2.png?v=1776348661\" alt=\"Zoé avec son Wildlab\">\n          </div>\n          <div class=\"wl-av-stars\">★★★★★</div>\n          <div class=\"wl-av-text\">\"Offert à ma petite-fille pour ses 8 ans. Elle a utilisé le télescope le soir même pour regarder la lune. Je n'ai pas pu retenir mes larmes.\"</div>\n          <div class=\"wl-av-by\">Martine G.</div>\n          <div class=\"wl-av-kid\">Grand-mère de Zoé, 8 ans · Strasbourg</div>\n          <div class=\"wl-av-moment\">Ce coup de téléphone-là, je ne l'oublierai jamais.</div>\n        </div>\n\n        <div class=\"wl-av-card\">\n          <div class=\"wl-av-img-wrap\">\n            <img class=\"wl-av-photo\" src=\"https://cdn.shopify.com/s/files/1/0938/5417/1461/files/3.png?v=1776348661\" alt=\"Emma avec le kit Wildlab\">\n          </div>\n          <div class=\"wl-av-stars\">★★★★★</div>\n          <div class=\"wl-av-text\">\"Elle est rentrée du parc en courant avec des photos d'oiseaux qu'elle avait pris au télescope. Elle m'a tout expliqué. Je ne l'avais jamais vue aussi fière d'elle.\"</div>\n          <div class=\"wl-av-by\">Sophie R.</div>\n          <div class=\"wl-av-kid\">Maman d'Emma, 7 ans · Bordeaux</div>\n          <div class=\"wl-av-moment\">Elle a posé sa tablette seul. Je n'ai rien dit.</div>\n        </div>\n\n      </div>\n    </div>\n    <div class=\"wl-av-footer\">\n      <div class=\"wl-swipe\">← Glisser →</div>\n      <div class=\"wl-av-dots\" id=\"wlavd\">\n        <button class=\"wl-avd on\" onclick=\"wlav(0)\"></button>\n        <button class=\"wl-avd\" onclick=\"wlav(1)\"></button>\n        <button class=\"wl-avd\" onclick=\"wlav(2)\"></button>\n        <button class=\"wl-avd\" onclick=\"wlav(3)\"></button>\n      </div>\n    </div>\n  </div>\n</div>\n\n<script>\nfunction wlav(i){\n  var c=document.getElementById('wlav');\n  if(!c)return;\n  c.scrollTo({left:i*c.offsetWidth,behavior:'smooth'});\n}\n(function(){\n  var c=document.getElementById('wlav');\n  var dots=document.querySelectorAll('#wlavd .wl-avd');\n  if(!c)return;\n  c.addEventListener('scroll',function(){\n    var i=Math.round(c.scrollLeft/c.offsetWidth);\n    dots.forEach(function(d,j){d.classList.toggle('on',j===i)});\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_q8VQhJ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-util7{background:#ffffff;padding:32px 16px}\n.wl-util7-inner{max-width:760px;margin:0 auto}\n.wl-tag{font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#2d8a47;margin-bottom:8px;display:block;font-family:'Nunito',sans-serif}\n.wl-h2{font-size:clamp(22px,5vw,40px);font-weight:900 !important;line-height:1.1;margin-bottom:10px;color:#1a1a1a;font-family:'Nunito',sans-serif}\n.wl-h2 em{color:#2d8a47;font-style:normal}\n.wl-lead{font-size:15px;color:#6b7280;line-height:1.6;max-width:520px;margin-bottom:24px;font-family:'Nunito',sans-serif}\n\n/* CARROUSEL 1 étape exacte */\n.wl-u7-outer{overflow:hidden;border-radius:14px}\n.wl-u7-track{\n  display:flex;\n  overflow-x:auto;\n  scroll-snap-type:x mandatory;\n  -webkit-overflow-scrolling:touch;\n  scrollbar-width:none;\n  -ms-overflow-style:none;\n}\n.wl-u7-track::-webkit-scrollbar{display:none}\n\n.wl-u7-card{\n  flex:0 0 100%;\n  scroll-snap-align:start;\n  background:#fdf6ec;\n  border-radius:14px;\n  border:1.5px solid #e8e4dc;\n  padding:28px 22px;\n  box-sizing:border-box;\n  text-align:center;\n}\n.wl-u7-num{\n  width:40px;height:40px;border-radius:50%;\n  background:#1e5631;color:white;\n  font-size:18px;font-weight:900 !important;\n  display:flex;align-items:center;justify-content:center;\n  margin:0 auto 16px;\n  font-family:'Nunito',sans-serif;\n}\n.wl-u7-icon{font-size:44px;display:block;margin-bottom:14px;line-height:1}\n.wl-u7-title{font-size:18px;font-weight:900 !important;margin-bottom:10px;color:#1a1a1a;font-family:'Nunito',sans-serif}\n.wl-u7-desc{font-size:14px;color:#374151;line-height:1.65;font-family:'Nunito',sans-serif}\n\n/* Footer dots */\n.wl-u7-footer{display:flex;flex-direction:column;align-items:center;gap:6px;margin:12px 0 24px}\n.wl-swipe{font-size:12px;color:#9ca3af;font-family:'Nunito',sans-serif}\n.wl-u7-dots{display:flex;gap:7px}\n.wl-u7d{width:8px;height:8px;border-radius:50%;background:#e8e4dc;border:none;padding:0;cursor:pointer;transition:all .25s}\n.wl-u7d.on{background:#1e5631;width:22px;border-radius:4px}\n\n/* Bande 100 Missions */\n.wl-missions{background:#0d1f3c;border-radius:16px;padding:22px 18px}\n.wl-ms-header{display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:16px}\n.wl-ms-title{font-size:17px;font-weight:900 !important;color:white;font-family:'Nunito',sans-serif;margin-bottom:3px}\n.wl-ms-sub{font-size:12px;color:rgba(255,255,255,.5);font-family:'Nunito',sans-serif}\n.wl-ms-badge{background:#f5a623;color:#1a0a00;font-size:12px;font-weight:900 !important;padding:6px 14px;border-radius:20px;white-space:nowrap;font-family:'Nunito',sans-serif;flex-shrink:0}\n.wl-ms-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}\n.wl-mc{border-radius:10px;padding:10px 8px;text-align:center;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.09)}\n.wl-mc.e{border-color:rgba(74,222,128,.2);background:rgba(74,222,128,.04)}\n.wl-mc.s{border-color:rgba(147,197,253,.2);background:rgba(147,197,253,.04)}\n.wl-mc.lk{opacity:.3}\n.wl-mc-num{font-size:9px;font-weight:800 !important;color:rgba(255,255,255,.4);letter-spacing:.06em;margin-bottom:3px;font-family:'Nunito',sans-serif}\n.wl-mc-ic{font-size:22px;display:block;margin-bottom:4px;line-height:1}\n.wl-mc-name{font-size:11px;font-weight:700 !important;color:rgba(255,255,255,.85);line-height:1.3;font-family:'Nunito',sans-serif}\n.wl-mc-more{border-radius:10px;padding:10px 8px;text-align:center;background:rgba(245,166,35,.1);border:1.5px solid rgba(245,166,35,.25);display:flex;align-items:center;justify-content:center}\n.wl-mc-more-t{font-size:11px;font-weight:800 !important;color:#f5a623;font-family:'Nunito',sans-serif}\n\n/* Desktop — 3 colonnes */\n@media(min-width:641px){\n  .wl-util7{padding:56px 20px}\n  .wl-u7-outer{overflow:visible;border-radius:0}\n  .wl-u7-track{\n    display:grid;\n    grid-template-columns:repeat(3,1fr);\n    overflow:visible;\n    gap:14px;\n  }\n  .wl-u7-card{flex:none;text-align:center}\n  .wl-u7-footer{display:none}\n  .wl-ms-grid{grid-template-columns:repeat(auto-fill,minmax(110px,1fr))}\n}\n</style>\n\n<div class=\"wl-util7\">\n  <div class=\"wl-util7-inner\">\n\n    <span class=\"wl-tag\">Comment ça marche</span>\n    <h2 class=\"wl-h2\">Prêt à explorer<br><em>en moins de 5 minutes.</em></h2>\n    <p class=\"wl-lead\">Pas de montage compliqué. Pas d'application. Allumer, pointer, découvrir.</p>\n\n    <!-- Carrousel étapes -->\n    <div class=\"wl-u7-outer\">\n      <div class=\"wl-u7-track\" id=\"wlu7\">\n\n        <div class=\"wl-u7-card\">\n          <div class=\"wl-u7-num\">1</div>\n          <span class=\"wl-u7-icon\">📦</span>\n          <div class=\"wl-u7-title\">Ouvrir le coffret</div>\n          <div class=\"wl-u7-desc\">Scanner le QR code → 100 missions s'ouvrent immédiatement sur mobile ou ordinateur. Le kit est chargé, prêt à allumer.</div>\n        </div>\n\n        <div class=\"wl-u7-card\">\n          <div class=\"wl-u7-num\">2</div>\n          <span class=\"wl-u7-icon\">🔬</span>\n          <div class=\"wl-u7-title\">Choisir une mission</div>\n          <div class=\"wl-u7-desc\">Microscope ou télescope : tourner la molette pour basculer. Ajuster le zoom. L'écran affiche en temps réel ce que le kit capture.</div>\n        </div>\n\n        <div class=\"wl-u7-card\">\n          <div class=\"wl-u7-num\">3</div>\n          <span class=\"wl-u7-icon\">💬</span>\n          <div class=\"wl-u7-title\">Raconter la découverte</div>\n          <div class=\"wl-u7-desc\">Chaque mission se termine par une question à poser aux parents. L'enfant valide sa mission en la racontant. La curiosité se transmet.</div>\n        </div>\n\n      </div>\n    </div>\n\n    <div class=\"wl-u7-footer\">\n      <div class=\"wl-swipe\">← Glisser →</div>\n      <div class=\"wl-u7-dots\" id=\"wlu7d\">\n        <button class=\"wl-u7d on\" onclick=\"wlu7go(0)\"></button>\n        <button class=\"wl-u7d\" onclick=\"wlu7go(1)\"></button>\n        <button class=\"wl-u7d\" onclick=\"wlu7go(2)\"></button>\n      </div>\n    </div>\n\n    <!-- Bande 100 Missions -->\n    <div class=\"wl-missions\">\n      <div class=\"wl-ms-header\">\n        <div>\n          <div class=\"wl-ms-title\">100 Missions d'exploration</div>\n          <div class=\"wl-ms-sub\">Incluses par QR code · PDF + mobile · Valeur 19,90€ · Offertes</div>\n        </div>\n        <div class=\"wl-ms-badge\">Offertes dans chaque kit</div>\n      </div>\n      <div class=\"wl-ms-grid\">\n        <div class=\"wl-mc e\"><div class=\"wl-mc-num\">Mission 01</div><span class=\"wl-mc-ic\">💇</span><div class=\"wl-mc-name\">Ton cheveu</div></div>\n        <div class=\"wl-mc e\"><div class=\"wl-mc-num\">Mission 03</div><span class=\"wl-mc-ic\">🧂</span><div class=\"wl-mc-name\">Grain de sel</div></div>\n        <div class=\"wl-mc s\"><div class=\"wl-mc-num\">Mission 51</div><span class=\"wl-mc-ic\">🌙</span><div class=\"wl-mc-name\">La lune</div></div>\n        <div class=\"wl-mc e\"><div class=\"wl-mc-num\">Mission 13</div><span class=\"wl-mc-ic\">🕸️</span><div class=\"wl-mc-name\">Toile araignée</div></div>\n        <div class=\"wl-mc s\"><div class=\"wl-mc-num\">Mission 66</div><span class=\"wl-mc-ic\">🐝</span><div class=\"wl-mc-name\">Une abeille</div></div>\n        <div class=\"wl-mc e\"><div class=\"wl-mc-num\">Mission 32</div><span class=\"wl-mc-ic\">🌱</span><div class=\"wl-mc-name\">Cellules oignon</div></div>\n        <div class=\"wl-mc s lk\"><div class=\"wl-mc-num\">Mission 81</div><span class=\"wl-mc-ic\">🌕</span><div class=\"wl-mc-name\">Terre qui tourne</div></div>\n        <div class=\"wl-mc s lk\"><div class=\"wl-mc-num\">Mission 83</div><span class=\"wl-mc-ic\">🌑</span><div class=\"wl-mc-name\">Éclipse lune</div></div>\n        <div class=\"wl-mc-more\"><div class=\"wl-mc-more-t\">+92 missions 🔍</div></div>\n      </div>\n    </div>\n\n  </div>\n</div>\n\n<script>\nfunction wlu7go(i){\n  var c=document.getElementById('wlu7');\n  if(!c)return;\n  c.scrollTo({left:i*c.offsetWidth,behavior:'smooth'});\n}\n(function(){\n  var c=document.getElementById('wlu7');\n  var dots=document.querySelectorAll('#wlu7d .wl-u7d');\n  if(!c)return;\n  c.addEventListener('scroll',function(){\n    var i=Math.round(c.scrollLeft/c.offsetWidth);\n    dots.forEach(function(d,j){d.classList.toggle('on',j===i)});\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_WmhTbe": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-intro-avis{background:#fdf6ec;padding:32px 16px 16px}\n.wl-intro-inner{max-width:760px;margin:0 auto}\n.wl-tag{font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#2d8a47;margin-bottom:8px;display:block;font-family:'Nunito',sans-serif}\n.wl-h2{font-size:clamp(22px,5vw,40px);font-weight:900 !important;line-height:1.1;margin:0;color:#1a1a1a;font-family:'Nunito',sans-serif}\n.wl-h2 em{color:#2d8a47;font-style:normal}\n\n@media(min-width:641px){\n  .wl-intro-avis{padding:56px 20px 20px}\n}\n</style>\n\n<div class=\"wl-intro-avis\">\n  <div class=\"wl-intro-inner\">\n    <span class=\"wl-tag\">Ce qu'ils en disent</span>\n    <h2 class=\"wl-h2\">Plus de 200 familles.<br><em>Des enfants qui explorent encore.</em></h2>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_Q8Vtzr": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-psy{background:#1e5631;padding:48px 16px;position:relative;overflow:hidden}\n.wl-psy::before{content:\"\";position:absolute;top:-80px;right:-80px;width:260px;height:260px;background:radial-gradient(circle,#2d8a47 0%,transparent 70%);opacity:.4;pointer-events:none}\n.wl-psy::after{content:\"\";position:absolute;bottom:-100px;left:-100px;width:300px;height:300px;background:radial-gradient(circle,#f5a623 0%,transparent 70%);opacity:.08;pointer-events:none}\n.wl-psy-inner{max-width:760px;margin:0 auto;position:relative;z-index:1}\n\n.wl-psy-tag{font-size:11px;font-weight:900;letter-spacing:.15em;text-transform:uppercase;color:#f5a623;margin-bottom:10px;display:block;font-family:'Nunito',sans-serif}\n.wl-psy-h2{font-size:clamp(24px,5.2vw,40px);font-weight:900 !important;line-height:1.12;margin:0 0 28px;color:#ffffff;font-family:'Nunito',sans-serif;letter-spacing:-.01em}\n.wl-psy-h2 em{color:#f5a623;font-style:normal}\n\n.wl-psy-outer{overflow:hidden;border-radius:16px}\n.wl-psy-track{\n  display:flex;\n  overflow-x:auto;\n  scroll-snap-type:x mandatory;\n  -webkit-overflow-scrolling:touch;\n  scrollbar-width:none;\n  gap:12px;\n  padding-bottom:4px;\n}\n.wl-psy-track::-webkit-scrollbar{display:none}\n\n.wl-psy-card{\n  flex:0 0 100%;\n  scroll-snap-align:start;\n  background:rgba(255,255,255,.06);\n  border:1.5px solid rgba(255,255,255,.12);\n  border-radius:16px;\n  padding:24px 22px 22px;\n  box-sizing:border-box;\n  position:relative;\n}\n.wl-psy-num{\n  position:absolute;top:18px;right:22px;\n  font-size:42px;font-weight:900;color:rgba(245,166,35,.18);\n  line-height:1;font-family:'Nunito',sans-serif;letter-spacing:-.02em\n}\n.wl-psy-title{\n  font-size:18px;font-weight:900 !important;color:#f5a623;\n  margin:0 0 12px;line-height:1.25;font-family:'Nunito',sans-serif;\n  max-width:calc(100% - 50px)\n}\n.wl-psy-text{\n  font-size:14.5px;line-height:1.65;color:#ffffff;\n  margin:0 0 16px;font-family:'Nunito',sans-serif;\n  font-style:italic;opacity:.95\n}\n.wl-psy-auth{\n  font-size:12px;color:#a7d7b6;font-weight:700;\n  font-family:'Nunito',sans-serif;letter-spacing:.01em\n}\n\n/* Dots */\n.wl-psy-foot{display:flex;flex-direction:column;align-items:center;gap:8px;margin-top:18px}\n.wl-psy-swipe{font-size:11px;color:rgba(255,255,255,.5);font-family:'Nunito',sans-serif;letter-spacing:.05em}\n.wl-psy-dots{display:flex;gap:8px}\n.wl-psy-d{width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.25);border:none;padding:0;cursor:pointer;transition:all .3s}\n.wl-psy-d.on{background:#f5a623;width:24px;border-radius:4px}\n\n/* Desktop — grille 2x2 */\n@media(min-width:768px){\n  .wl-psy{padding:72px 24px}\n  .wl-psy-outer{overflow:visible;border-radius:0}\n  .wl-psy-track{\n    display:grid;\n    grid-template-columns:repeat(2,1fr);\n    gap:14px;\n    overflow:visible;\n  }\n  .wl-psy-card{flex:none;padding:28px 26px 26px}\n  .wl-psy-title{font-size:19px}\n  .wl-psy-text{font-size:15px}\n  .wl-psy-foot{display:none}\n}\n</style>\n\n<div class=\"wl-psy\">\n  <div class=\"wl-psy-inner\">\n\n    <span class=\"wl-psy-tag\">Entre vous et lui</span>\n    <h2 class=\"wl-psy-h2\">Le moment que <em>vous n'oublierez pas</em> non plus.</h2>\n\n    <div class=\"wl-psy-outer\">\n      <div class=\"wl-psy-track\" id=\"wlpsy\">\n\n        <div class=\"wl-psy-card\">\n          <div class=\"wl-psy-num\">01</div>\n          <h3 class=\"wl-psy-title\">Il est rentré du jardin en courant.</h3>\n          <p class=\"wl-psy-text\">\"Il voulait absolument que je regarde l'écran. L'aile d'une libellule qu'il venait de trouver. Il était bouleversé. Moi aussi. C'était le plus beau soir de l'été.\"</p>\n          <div class=\"wl-psy-auth\">— Sophie T., maman de Léo, 8 ans</div>\n        </div>\n\n        <div class=\"wl-psy-card\">\n          <div class=\"wl-psy-num\">02</div>\n          <h3 class=\"wl-psy-title\">22h un mercredi soir.</h3>\n          <p class=\"wl-psy-text\">\"Il était censé être couché depuis une heure. Il m'a appelée doucement. Il avait trouvé un cristal de sel sous la loupe. Je ne l'ai pas grondé.\"</p>\n          <div class=\"wl-psy-auth\">— Camille R., maman de Nathan, 9 ans</div>\n        </div>\n\n        <div class=\"wl-psy-card\">\n          <div class=\"wl-psy-num\">03</div>\n          <h3 class=\"wl-psy-title\">Il savait quelque chose que je ne savais pas.</h3>\n          <p class=\"wl-psy-text\">\"Ma fille a expliqué à son grand-père pourquoi les étoiles n'ont pas toutes la même couleur. Je ne lui avais jamais rien dit là-dessus. C'est elle qui avait appris.\"</p>\n          <div class=\"wl-psy-auth\">— Patricia D., maman d'Emma, 10 ans</div>\n        </div>\n\n        <div class=\"wl-psy-card\">\n          <div class=\"wl-psy-num\">04</div>\n          <h3 class=\"wl-psy-title\">La fenêtre 6-12 ans ne se rouvre pas.</h3>\n          <p class=\"wl-psy-text\">\"Ce que vous lui montrez maintenant devient qui il sera. Pas un jouet qui finit au fond d'un tiroir — une façon de regarder le monde qui reste pour la vie.\"</p>\n          <div class=\"wl-psy-auth\">— L'équipe Wildscooper</div>\n        </div>\n\n      </div>\n    </div>\n\n    <div class=\"wl-psy-foot\">\n      <div class=\"wl-psy-swipe\">← Glisser →</div>\n      <div class=\"wl-psy-dots\" id=\"wlpsyd\">\n        <button class=\"wl-psy-d on\" onclick=\"wlpsy(0)\"></button>\n        <button class=\"wl-psy-d\" onclick=\"wlpsy(1)\"></button>\n        <button class=\"wl-psy-d\" onclick=\"wlpsy(2)\"></button>\n        <button class=\"wl-psy-d\" onclick=\"wlpsy(3)\"></button>\n      </div>\n    </div>\n\n  </div>\n</div>\n\n<script>\nfunction wlpsy(i){\n  var c=document.getElementById('wlpsy');\n  if(!c)return;\n  c.scrollTo({left:i*c.offsetWidth,behavior:'smooth'});\n}\n(function(){\n  var c=document.getElementById('wlpsy');\n  var dots=document.querySelectorAll('#wlpsyd .wl-psy-d');\n  if(!c)return;\n  c.addEventListener('scroll',function(){\n    var i=Math.round(c.scrollLeft/c.offsetWidth);\n    dots.forEach(function(d,j){d.classList.toggle('on',j===i)});\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_EwPTb8": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n.wl-faq{background:#ffffff;padding:56px 20px 64px}\n.wl-faq-inner{max-width:700px;margin:0 auto}\n.wl-tag{font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#2d8a47;margin-bottom:8px;display:block;font-family:'Nunito',sans-serif}\n.wl-h2{font-size:clamp(24px,4.8vw,40px);font-weight:900;line-height:1.12;margin:0 0 28px;color:#1a1a1a;font-family:'Nunito',sans-serif}\n.wl-h2 em{color:#2d8a47;font-style:normal}\n\n.wl-faq-item{border-bottom:1.5px solid #e8e4dc;transition:background .2s}\n.wl-faq-item:first-of-type{border-top:1.5px solid #e8e4dc}\n.wl-faq-q{font-size:15px;font-weight:800;color:#1a1a1a;padding:18px 0;cursor:pointer;display:flex;align-items:flex-start;gap:12px;font-family:'Nunito',sans-serif;list-style:none;justify-content:space-between}\n.wl-faq-emoji{font-size:20px;flex-shrink:0;line-height:1.2;margin-top:-1px}\n.wl-faq-q-text{flex:1;line-height:1.35}\n.wl-faq-chevron{font-size:13px;color:#6b7280;flex-shrink:0;margin-top:4px;transition:transform .25s}\n.wl-faq-item.open .wl-faq-chevron{transform:rotate(180deg);color:#1e5631}\n.wl-faq-a{font-size:14.5px;color:#374151;line-height:1.6;padding:0 0 20px 34px;display:none;font-family:'Nunito',sans-serif}\n.wl-faq-item.open .wl-faq-a{display:block}\n.wl-faq-a strong{color:#1a1a1a;font-weight:900}\n\n.wl-faq-end{margin-top:32px;padding:20px 22px;background:#fff9ed;border:1.5px solid #f5d78a;border-radius:14px;text-align:center;font-family:'Nunito',sans-serif}\n.wl-faq-end-t{font-size:14px;font-weight:900;color:#1a1a1a;margin-bottom:6px}\n.wl-faq-end-s{font-size:13px;color:#6b7280;margin-bottom:12px;line-height:1.5}\n.wl-faq-end-a{display:inline-block;font-size:13px;font-weight:800;color:#1e5631;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}\n</style>\n\n<div class=\"wl-faq\">\n  <div class=\"wl-faq-inner\">\n\n    <span class=\"wl-tag\">Questions honnêtes</span>\n    <h2 class=\"wl-h2\">Ce que vous vous demandez<br><em>avant d'acheter.</em></h2>\n\n    <!-- Q1 : Âge -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">👶</span>\n        <span class=\"wl-faq-q-text\">À partir de quel âge ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p>Dès <strong>6 ans</strong> en autonomie totale. Les missions sont graduées jusqu'à 14 ans.</p>\n      </div>\n    </div>\n\n    <!-- Q2 : Solidité -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">💪</span>\n        <span class=\"wl-faq-q-text\">C'est solide ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p>Oui. Châssis <strong>ABS renforcé</strong>, testé chute 1 mètre. Conçu pour résister aux mains d'enfant.</p>\n      </div>\n    </div>\n\n    <!-- Q3 : Utilisation -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">🔬</span>\n        <span class=\"wl-faq-q-text\">C'est facile à utiliser ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p>Deux molettes simples, un bouton photo. <strong>Maîtrisé en 5 minutes</strong>, sans l'aide d'un parent.</p>\n      </div>\n    </div>\n\n    <!-- Q4 : Écran -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">📱</span>\n        <span class=\"wl-faq-q-text\">Encore un écran ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p>Non, c'est <strong>l'inverse d'une tablette</strong>. L'écran ne s'allume que dehors, quand l'enfant a trouvé quelque chose à observer.</p>\n      </div>\n    </div>\n\n    <!-- Q5 : Missions -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">📋</span>\n        <span class=\"wl-faq-q-text\">Comment je reçois les 100 missions ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p>Un <strong>QR code dans la boîte</strong>. Il donne accès au PDF, téléchargeable sur mobile ou imprimable.</p>\n      </div>\n    </div>\n\n    <!-- Q6 : Livraison -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">🚚</span>\n        <span class=\"wl-faq-q-text\">Livraison en combien de temps ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p>Expédition sous 24h. <strong>Livraison 3 à 7 jours ouvrés</strong>. Suivi envoyé par email.</p>\n      </div>\n    </div>\n\n    <!-- Q7 : Garantie -->\n    <div class=\"wl-faq-item\">\n      <div class=\"wl-faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">\n        <span class=\"wl-faq-emoji\">🛡️</span>\n        <span class=\"wl-faq-q-text\">Et si mon enfant n'aime pas ?</span>\n        <span class=\"wl-faq-chevron\">▼</span>\n      </div>\n      <div class=\"wl-faq-a\">\n        <p><strong>30 jours satisfait ou remboursé</strong>, sans question. Vous renvoyez, on rembourse intégralement.</p>\n      </div>\n    </div>\n\n    <!-- Bottom reassurance -->\n    <div class=\"wl-faq-end\">\n      <div class=\"wl-faq-end-t\">Une autre question ?</div>\n      <div class=\"wl-faq-end-s\">Écrivez-nous, on répond personnellement. Un vrai parent derrière chaque message.</div>\n      <a href=\"mailto:contact@wildscooper.fr\" class=\"wl-faq-end-a\">contact@wildscooper.fr →</a>\n    </div>\n\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "video_teB4qV",
-    "rich_text_fbKEpk",
-    "text_with_icons_8KMX9g",
-    "featured_collection_m3jxi9",
-    "blog_posts_zhECPp",
-    "blog_posts_MnCyit",
-    "newsletter_wAPWbE"
+    "newsletter_wAPWbE",
+    "custom_liquid_WMt3n4",
+    "custom_liquid_eyTRUX",
+    "custom_liquid_zcQ6Qj",
+    "custom_liquid_q8VQhJ",
+    "custom_liquid_WmhTbe",
+    "custom_liquid_Q8Vtzr",
+    "custom_liquid_EwPTb8"
   ]
 }

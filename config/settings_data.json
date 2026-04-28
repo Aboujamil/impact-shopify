@@ -38,16 +38,7 @@
     "favicon": "shopify://shop_images/tawakul_favicon.webp",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "8912919057760678768": {
-        "type": "shopify://apps/easify-box-builder/blocks/app-embed-block/5e4620dd-6bb8-4776-ada5-5f18c69faedd",
-        "disabled": false,
-        "settings": {
-          "settings_js_develop_mode": false
-        }
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
@@ -145,5 +136,21 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "body,h1,h2,h3,h4,p,li,span,a,button {font-family: \"Nunito\", sans-serif !important;}",
+      "body {background: #fdf6ec !important;}",
+      "h1,h2,h3,h4,.wl-h2 {font-weight: 900 !important;}",
+      ".wl-h2 {font-size: clamp(26px, 5vw, 42px) !important; line-height: 1.1 !important;}",
+      ".wl-bc h4,.wl-u7-title,.wl-aa-title,.wl-ab-by,.wl-av-by,.wl-g8-name,.wl-pc h4 {font-size: 16px !important; font-weight: 900 !important;}",
+      ".wl-bc p,.wl-u7-desc,.wl-lead,.wl-pain p,.wl-faq-a,.wl-ab-text,.wl-av-text,.wl-g8-text {font-size: 14px !important; line-height: 1.65 !important; color: #374151 !important;}",
+      ".wl-aa-list li {font-size: 13px !important;}",
+      ".btn,.button,[type=\"submit\"],.product-form__submit {background: #f5a623 !important; color: #1a0a00 !important; font-weight: 900 !important; border-radius: 12px !important; border: none !important;}",
+      "a {color: #1e5631 !important;}",
+      ".announcement-bar {background: #1e5631 !important; color: #fff !important; font-weight: 700 !important;}",
+      ".footer,.site-footer {background: #1e5631 !important; color: rgba(255, 255, 255, 0.35) !important;}",
+      ".footer a,.site-footer a {color: rgba(255, 255, 255, 0.35) !important;}"
+    ]
   }
 }
